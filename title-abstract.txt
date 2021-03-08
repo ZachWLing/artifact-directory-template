@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+AutoPhrase for Financial Documents Interpretation 
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The stock market is one of the most popular markets that the investors like to put their money in. There are millions of investors who participate in the stock market investment directly or indirectly, such as by mutual fund, defined-benefit plan. The performance of the stock price is highly related to the latest news information, such as the 8-K reports, the annual or quarter report. These reports reflect the operating performance of the companies, which are the important fundaments for the stock price. However, there are numerous news to the market for each day, and we want to build a model to extract the features from the news and use them to predict the price trend. In this project, we apply the AutoPhrase model from Professor Jingbo Shang to extract the high-quality phrases from the news documents and to predict stock price trends. We aim to explore if certain words or phrases correlate to higher or lower stock prices after a release of an 8-K report.
